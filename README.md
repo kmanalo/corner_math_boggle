@@ -2,8 +2,10 @@
 
 Brute-force Math boggle solver for 5x5 grids.  Traversal requires going from
 one corner to another corner.  Solver based on enumerated paths (102,768 total)
-for Self-Avoiding Walks, developed externally, see
+for Self-Avoiding Walks (SAW), developed externally, see
 https://stackoverflow.com/a/9172401 
+
+For a useful introduction to SAW, see https://mathworld.wolfram.com/Self-AvoidingWalk.html
 
 The Python code traces the coordinate paths and performs left-to-right math (no
 PEMDAS).
