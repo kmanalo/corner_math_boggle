@@ -30,6 +30,15 @@ Example for running the code:
 python3 corner_math_boggle.py 69.0 --no-fractions
 ```
 
+Problem:
+```
+5 + 2 * 7
+- 4 / 5 -
+4 * 6 * 8
++ 1 * 2 *
+2 + 9 / 3
+```
+
 Output example:
 ```
 ['2', '+', '1', '*', '2', '/', '3', '*', '8', '*', '6', '*', '4', '-', '4', '/', '5', '-', '7']  3 6 2.0 16.0 96.0 384.0 380.0 76.0 69.0
