@@ -1,4 +1,4 @@
-# corner_math_boggle
+# Corner Math Boggle for 5x5 Grids
 
 Brute-force Math boggle solver for 5x5 grids.  Traversal requires going from
 one corner to another corner.  Solver based on enumerated paths (102,768 total)
